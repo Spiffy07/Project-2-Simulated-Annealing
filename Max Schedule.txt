@@ -1,0 +1,1692 @@
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 260    25                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 260    25                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Katz      209    50                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Katz      209    50                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Katz      209    50                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Royall    204    70                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Royall    204    70                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Royall    204    70                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 260    25                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 260    25                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Royall    204    70                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      206    30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Royall    204    70                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      206    30                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      206    30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      206    30                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      206    30                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Bloch     9      30                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 260    25                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Flarsheim 310    80                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Staff          2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Flarsheim 310    80                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Flarsheim 310    80                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Staff          2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Flarsheim 310    80                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Rao            10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Flarsheim 310    80                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Rao            1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Flarsheim 310    80                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Flarsheim 310    80                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Rao            1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Bloch     9      30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Bloch     9      30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Royall    204    70                  Rao            1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Kuhail         11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Bloch     9      30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Royall    204    70                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Kuhail         11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 310    80                  Bingham        10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 260    25                  Kuhail         12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Bloch     9      30                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Bloch     9      30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Staff          2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 310    80                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 310    80                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 310    80                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 310    80                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      206    30                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Haag      301    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Bloch     9      30                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Bingham        10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Staff          10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Kuhail         12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 260    25                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      206    30                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Rao            1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Bingham        10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Flarsheim 260    25                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Bloch     9      30                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Royall    204    70                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 260    25                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      206    30                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Staff          10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Rao            11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      206    30                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Staff          10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Rao            11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      206    30                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Royall    204    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Royall    204    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Katz      209    50                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Kuhail         12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Flarsheim 260    25                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Flarsheim 310    80                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Haag      206    30                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      206    30                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      206    30                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      206    30                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      206    30                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Staff          2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Royall    204    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      301    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      206    30                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Haag      301    70                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Katz      209    50                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Katz      209    50                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Katz      209    50                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Katz      209    50                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Royall    204    70                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Bingham        12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Mitchell       12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 310    80                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Royall    204    70                  Mitchell       12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Royall    204    70                  Staff          11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Staff          4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Kuhail         2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 310    80                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Mitchell       12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Staff          2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Kuhail         4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Staff          2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Hare           1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Katz      209    50                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Kuhail         11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Haag      301    70                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Staff          12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Katz      209    50                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Katz      209    50                  Bingham        4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Rao            2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Haag      301    70                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Katz      209    50                  Mitchell       10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Staff          3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      301    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Haag      301    70                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Haag      206    30                  Kuhail         10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Rao            3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Haag      206    30                  Staff          10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Rao            11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Haag      301    70                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      206    30                  Bingham        1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Bingham        2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Haag      206    30                  Staff          10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Mitchell       2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Hare           2         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Katz      209    50                  Rao            11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Kuhail         3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Haag      301    70                  Rao            4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Hare           12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Hare           4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 260    25                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Rao            12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 310    80                  Kuhail         11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Royall    204    70                  Bingham        3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Royall    204    70                  Staff          1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101A           40                       Flarsheim 310    80                  Bingham        10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 101B           25                       Flarsheim 260    25                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201A           30                       Haag      206    30                  Hare           11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 201B           30                       Haag      301    70                  Bingham        11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191A           60                       Flarsheim 310    80                  Mitchell       4         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 191B           20                       Flarsheim 260    25                  Mitchell       11        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291A           20                       Haag      206    30                  Hare           10        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 291B           40                       Haag      301    70                  Mitchell       12        
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 303            50                       Flarsheim 310    80                  Kuhail         1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 341            40                       Flarsheim 310    80                  Mitchell       1         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 449            55                       Haag      301    70                  Hare           3         
+
+ Class name:   Expected enrollment:     Classroom:       Room Capacity:      Instructor:    Time:     
+ 461            40                       Flarsheim 310    80                  Rao            12        
+
